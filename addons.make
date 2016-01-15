@@ -1,0 +1,13 @@
+ofx3DModelLoader
+ofxGui
+ofxOpenCv
+ofxOsc
+ofxSvg
+ofxXmlSettings
+ofxIO
+ofxJSON
+ofxNearestNeighbour
+ofxNonLinearFit
+ofxTaskQueue
+ofxTweener
+ofxUI
